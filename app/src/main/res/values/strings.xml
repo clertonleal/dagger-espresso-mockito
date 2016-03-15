@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nubank</string>
+    <string name="loading">Carregando</string>
+    <string name="no_internet">É preciso internet para usar o Nubank.</string>
+    <string name="news">Recentes</string>
+    <string name="refresh">Atualizar</string>
+    <string name="need_internet_to_see_moments">Você precisa de internet para acessar suas contas. Por favor tente novamente.</string>
+    <string name="execution_error">Erro de execução</string>
+    <string name="no_bill">Sem cotas</string>
+    
+    <string name="expiration">Vencimento %1$s</string>
+    <string name="close_date">Fechamento em %1$s</string>
+    <string name="partial_bill">FATURA PARCIAL</string>
+    <string name="from_to_bill_date">De %1$s até %2$s</string>
+    <string name="currency_values">Valores em R$</string>
+    <string name="payment_received">PAGAMENTO RECEBIDO</string>
+    <string name="spent_in_month">Gastos do mês</string>
+    <string name="no_paid_value">Valores não pagos</string>
+    <string name="interest_rate">Juros 7,75%</string>
+    <string name="generate_billet">GERAR BOLETO</string>
+</resources>
